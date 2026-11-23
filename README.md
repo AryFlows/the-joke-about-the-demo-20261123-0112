@@ -23,3 +23,11 @@ OUTPUT_DIR=/tmp/joke-out node main.ts
 The program validates the joke is a single line of 1–280 Unicode code points and not only whitespace, creates the output directory if it is missing (it never deletes it), and logs the character count.
 
 The entry is judged on whether it is a joke about AI coding agents, the surprise of its punchline, how true it rings to developers who demo with agents, and how economically it lands in a single line.
+
+## make.fun
+
+[![The joke about the demo](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![Rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/AryFlows/the-joke-about-the-demo-20261123-0112/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+[![Reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/AryFlows/the-joke-about-the-demo-20261123-0112/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
+
+Bounty page: https://make.fun/bounty/the-joke-about-the-demo-20261123-0112
